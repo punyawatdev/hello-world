@@ -1,5 +1,5 @@
 ### 😃 Hi, I'm @punyawatdev
-I like code writing, clean code and performance of production 🌱
+I'm one of developers. 
 
 ### ⚙️ Technology and Tools
 These are some of the technologies and tools that I work with:
